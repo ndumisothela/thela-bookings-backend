@@ -8,8 +8,7 @@
     "express-validator": "^7.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.6.2",
-    "mongoose": "^8.4.0",
-    "nodemon": "^3.1.0"
+    "mongoose": "^8.4.0"
   },
   "name": "api",
   "version": "1.0.0",
@@ -21,5 +20,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
